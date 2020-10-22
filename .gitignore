@@ -1,0 +1,14 @@
+# IDE files and directories
+
+.vscode/
+
+# Python
+
+[.]venv/
+
+__pycache__/
+*.py[cod]
+
+build/
+dist/
+*.egg-info/
